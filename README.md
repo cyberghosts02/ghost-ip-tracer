@@ -26,10 +26,20 @@ jq (for parsing JSON output, if used)
 
 ## 🔧 Installation
 git clone https://github.com/cyberghosts02/ghost-ip-tracer
+
+
 cd ghost-ip-tracer
+
+
 chmod +x ghost.sh
+
+
 ./ghost.sh
+
+
 Or run directly:
+
+
 bash ghost.sh
 ## 📡 How It Works
 This tool uses online IP lookup services (like ip-api.com or others) to fetch:

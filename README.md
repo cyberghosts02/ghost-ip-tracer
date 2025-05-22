@@ -4,8 +4,7 @@
 Created by **X AWAN** under the alias **X GHOST**, this script provides accurate geolocation data using simple interface logic, all from your terminal.
 
 ---
-![Ghost IP Trace Screenshot](![ghost](https://github.com/user-attachments/assets/c50e9f43-2bfe-4a3c-af20-a45ede2c4024)
-)
+
 
 
 ## 🚀 Features
@@ -26,7 +25,6 @@ jq (for parsing JSON output, if used)
 (both are pre-installed on most Linux distros)
 
 ## 🔧 Installation
-
 git clone https://github.com/cyberghosts02/ghost-ip-tracer
 cd ghost-ip-tracer
 chmod +x ghost.sh

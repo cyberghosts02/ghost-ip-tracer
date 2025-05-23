@@ -31,10 +31,10 @@ git clone https://github.com/cyberghosts02/ghost-ip-tracer
 cd ghost-ip-tracer
 
 
-chmod +x ghost.sh
+chmod +x ghost-ip-trace.sh
 
 
-./ghost.sh
+./ghost-ip-trace.sh
 
 
 Or run directly:
